@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheNakedTruth]]></title>
+        <description><![CDATA[TheNakedTruth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 May 2016 21:31:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good vs Great]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/784ce922-a531-4a49-9e6c-1eedf5a527c9.jpg" alt="" title="">]]></description>
+            <link>undefinedgood-vs-great/index.html</link>
+            <guid isPermaLink="false">1157820c-488a-4906-8bc2-dfe8b001457e</guid>
+            <pubDate>Mon, 02 May 2016 21:31:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
